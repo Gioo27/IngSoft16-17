@@ -1,0 +1,13 @@
+codice utente unico
+codice utente diverso tra clients and assistants
+per ogni reservation, utente in stato reserving, car in stato reserved
+per ogni corsa (in corso) client in driving o in break, car in on course or in break
+reservation relativa ad una sola persona
+macchina in corsa con un solo guidatore
+una persona riserva una sola macchina alla volta
+"ogni macchina ha posizione diversa"
+numero di macchine nella parking area minori del numero di recharger (parking area a range di position?)
+non posso riservare machina non available
+non esisto corse ne riservazioni per utenti dismounted
+ogni cliente relativo a corse diverse, ogni macchina relativa a corse diverse (nel momento, no nello storico)
+ogni cliente relativo a reservation "
