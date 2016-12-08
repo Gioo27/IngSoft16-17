@@ -1,0 +1,11 @@
+REST sistema di architettura per sistemi di ipertesto distribuito. interfaccia che trasmette dati su http semplice.
+apache: piattaforma server web
+laravel: framework MVC scritto in php per sviluppo di applicazioni web
+
+websocket api: permette scambio tra client e server. sempre gestito da json
+(client tramite javascript)
+
+mysql
+php
+apche cordova
+rest json
