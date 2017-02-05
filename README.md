@@ -17,3 +17,5 @@ Quinta Consegna:
 Il file in formato PDF è in Releases/Code Inspection (fifth release) con il titolo di "Code_Inspection_Gaboardi_Giardini_Giol".
 
 Le versioni aggiornate del RASD e del DD sono rispettivamente in Releases/DD (second release) e in Releases/IT (third release) con il medesimo titolo seguito da "v2".
+
+Dentro la directory "materiale usato", divisi per documenti relativi, sono presenti tutti i documenti e file utilizzati per la creazione dei PDF consegnati.
